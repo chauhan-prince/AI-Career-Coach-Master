@@ -62,3 +62,4 @@ export const generateIndustryInsights = inngest.createFunction(
     }
   }
 );
+
